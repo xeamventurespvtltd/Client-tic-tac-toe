@@ -26,10 +26,6 @@ Now things starts to get more challenging with the beast trying to hunt you down
 
 This is the most challenging of all, with sixteen squares you will find impossible to get around MOMMA DINO to secure a win.
 
-### React Slick
-
-To select timings for meeting while booking a demo.
-
 #### Disclaimer
 
 You could get a crushing defeat from the WOOLLY MAMMOTH, or your neck could be in between the SABERTOOTH's jaw.
